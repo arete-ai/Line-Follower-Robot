@@ -2,6 +2,8 @@
 
 This is the code for an autonomous line-follower robot that I built during the microcontroller and soldering practical course in the robotics bachelor program at THWS. The bot uses infrared sensors to autonomously follow a black line on the ground.
 
+<img src="LineFollower_in_action.gif" alt="Line-Follower in action" width="500"/>
+
 ## Hardware & Components
 
 The robot is based on a custom PCB provided by the university, but the concept can easily be recreated on a breadboard. The main components under the hood are:
